@@ -53,6 +53,8 @@ php --version
 ```
 ![php_version](./images/Ex4_4.PNG)
 
-Furthermore, here is an example of what your `/etc/apt/sources.list.d` might look like after adding the `ppa:ondrej/php` repository:
-![verification](./images/Ex4_5.PNG)
+Furthermore, here is an example of what your `/etc/apt/sources.list.d` might look like after adding the `ppa:ondrej/php` repository:  
+
+![verification](./images/Ex4_5.PNG)  
+
 That's it! You've successfully installed **PHP 7.4** on your Linux machine using the ``ppa:ondrej/php package repository.
